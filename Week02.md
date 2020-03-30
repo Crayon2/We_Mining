@@ -18,11 +18,11 @@
 
 greedy 所有<html> 元素标签，即除了普通的标签，还可以省略了父标签的字标签，例如'//a'即是所有标签下的a标签
 
-<img src="images/gredy.png>
+<img src="images/gredy.png">
 
 除去标签，还可以解析路径，爬取到我们想要的信息
 
-<img src="images/xpath.png>
+<img src="images/xpath.png">
 
 
 
@@ -30,7 +30,7 @@ greedy 所有<html> 元素标签，即除了普通的标签，还可以省略了
 
 下面的是一般的格式
 
-<img src="images/panda.png>
+<img src="images/panda.png">
 
 
 
